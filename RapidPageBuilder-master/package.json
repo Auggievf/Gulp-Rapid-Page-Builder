@@ -1,0 +1,53 @@
+{
+  "name": "rapidpagebuilder",
+  "version": "0.0.0",
+  "keywords": [
+    "mars rover",
+    "NASA",
+    "angular",
+    "ng8"
+  ],
+  "maintainers": [
+    {
+      "name": "Jason Rogers",
+      "email": "auggievf@gmail.com"
+    }
+  ],
+  "repository": "",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-notify": "^0.4.1",
+    "gulp": "^4.0.2",
+    "gulp-add-src": "^0.2.0",
+    "gulp-cheerio": "^0.6.3",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "*",
+    "gulp-csso": "^1.0.0",
+    "gulp-filter": "^2.0.2",
+    "gulp-html-minifier": "^0.1.6",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-htmlmin": "^1.1.1",
+    "gulp-if": "^1.2.5",
+    "gulp-inject": "^1.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rev": "^3.0.1",
+    "gulp-rev-replace": "^0.4.4",
+    "gulp-uglify": "^1.1.0",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-uncss": "^1.0.1",
+    "livereload": "^0.9.1"
+  },
+  "dependencies": {
+    "clean-css": "^4.2.3",
+    "cryptiles": "^4.1.3",
+    "gulp-concat": "^2.5.2",
+    "gulp-uglifyjs": "^0.6.1",
+    "hoek": "^6.1.3",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
+    "minimatch": "^3.0.4",
+    "stringstream": "^1.0.0",
+    "underscore.string": "^3.3.5"
+  }
+}
