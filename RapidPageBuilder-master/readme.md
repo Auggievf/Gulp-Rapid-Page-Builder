@@ -31,7 +31,7 @@ This is the `template.html` placeholder for the injection of that above snippet:
 
 ## Required Gulp packages
 
-  You need to go to the root of the project and in the command line you'll use npm to install these packages, assuming you don't have gulp already, here it is installedd globally:
+  You need to go to the root of the project and in the command line you'll use npm to install these packages, assuming you don't have gulp already, here it is installed globally:
 ```
 npm install gulp -g
 npm install gulp-if gulp-cheerio gulp-sass gulp-rename gulp-util vinyl-source-stream vinyl-buffer
